@@ -1,0 +1,10 @@
+# M7-B1 — audit (Python 3.11+)
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
+psutil==6.1.0
+matplotlib==3.9.2
+jupyter==1.1.1
+ipykernel==6.29.5
+pytest==8.3.2
